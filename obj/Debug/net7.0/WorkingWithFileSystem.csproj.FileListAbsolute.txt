@@ -1,0 +1,14 @@
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.exe
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.deps.json
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.runtimeconfig.json
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.dll
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.pdb
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.AssemblyInfoInputs.cache
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.AssemblyInfo.cs
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.dll
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\obj\Debug\net7.0\refint\WorkingWithFileSystem.dll
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.pdb
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.genruntimeconfig.cache
+C:\Users\Kirk\Documents\New folder\WorkingWithFileSystem\obj\Debug\net7.0\ref\WorkingWithFileSystem.dll
