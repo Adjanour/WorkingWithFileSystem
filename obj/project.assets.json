@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kirk\\Desktop\\PROJECTS\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj",
+      "projectUniqueName": "D:\\Desktop\\PROJECTS\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj",
       "projectName": "WorkingWithFileSystem",
-      "projectPath": "C:\\Users\\Kirk\\Desktop\\PROJECTS\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj",
+      "projectPath": "D:\\Desktop\\PROJECTS\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj",
       "packagesPath": "C:\\Users\\Kirk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kirk\\Desktop\\PROJECTS\\WorkingWithFileSystem\\obj\\",
+      "outputPath": "D:\\Desktop\\PROJECTS\\WorkingWithFileSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
